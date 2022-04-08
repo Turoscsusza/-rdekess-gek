@@ -1,0 +1,6 @@
+print ("alszol a hasadon? (igen=1/nem=0)")
+x= float(input ())
+if x==0:
+    print ("aludhatok rajta?")
+else:
+    print ("akkor sajnálom")
